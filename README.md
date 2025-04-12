@@ -1,10 +1,10 @@
-# Swimming-Report
+# Swimming Participation  - Bright Sun College 
 
 ## Table of Content
 - [Project Overview](#project-overview)
-- [Tools](#tools)
+- [Tools Used](#tools-used)
 - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [Exploratory Data Analysis EDA](#Exploratory-Data-Analysis-eda)
 - [Data Analysis](#data-analysis)
 - [Project outcome](#project-outcome)
 - [Recommendation](#recommendation)
@@ -56,18 +56,22 @@ A dynamic dashboard was developed in Power BI to provide
   
  ### Project outcome
    This project uncovers:
-1. Better Understandng of students engagement in swimming activities 
+1. A Better Understandng of students engagement in swimming activities 
 2. Identification of low paticipation studentd for improvement 
-3. identitification of fee debtors
-4. Data driven recommendation for increased involvement in extracoricular activities 
+3. Recognition of Students who owe swimming fee
+4. Data driven recommendation for increased involvement in extracoricular programes
 
 ### Recommendation
-   - invest in marketing during peak sales
-   - Focus on expanding
-   - customer Strategy
+- Improve student engagement through targeted communication and incentives  
+- Track participation monthly to spot declining trends early  
+- Follow up with students listed as debtors to improve fee compliance
 
 ### Limitation 
+- Limited time period (only January–February) may not show yearly trends  
+- Some data fields had missing or inconsistent entries  
+- Data only covers one extracurricular activity and male student alone
 
 
 ### References 
-1. 
+1. Internal participation data provided by Bright Sun College
+2. Power BI official documentation: [https://learn.microsoft.com/en-us/power-bi](https://learn.microsoft.com/en-us/power-bi)
